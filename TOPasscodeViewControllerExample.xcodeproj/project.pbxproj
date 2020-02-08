@@ -425,12 +425,12 @@
 				TargetAttributes = {
 					22E2034523656ADB00B2FBB4 = {
 						CreatedOnToolsVersion = 11.2;
-						DevelopmentTeam = 6LF3GMKZAB;
+						DevelopmentTeam = 2T27XY7C36;
 						ProvisioningStyle = Automatic;
 					};
 					22F806A21ECABB3D0053C94E = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 6LF3GMKZAB;
+						DevelopmentTeam = 2T27XY7C36;
 						ProvisioningStyle = Automatic;
 					};
 					22F806BB1ECABB3D0053C94E = {
@@ -607,7 +607,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 6LF3GMKZAB;
+				DEVELOPMENT_TEAM = 2T27XY7C36;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -620,7 +620,7 @@
 				MARKETING_VERSION = 0.0.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = dev.tim.TOPasscodeViewController;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alenpeter.TOPasscodeViewController;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -638,7 +638,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 6LF3GMKZAB;
+				DEVELOPMENT_TEAM = 2T27XY7C36;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -650,7 +650,7 @@
 				MACH_O_TYPE = staticlib;
 				MARKETING_VERSION = 0.0.2;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = dev.tim.TOPasscodeViewController;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alenpeter.TOPasscodeViewController;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -771,7 +771,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6LF3GMKZAB;
+				DEVELOPMENT_TEAM = 2T27XY7C36;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)",
@@ -780,7 +780,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = co.timoliver.TOPasscodeViewControllerExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alenpeter.TOPasscodeViewControllerExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -790,7 +790,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6LF3GMKZAB;
+				DEVELOPMENT_TEAM = 2T27XY7C36;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)",
@@ -799,7 +799,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = co.timoliver.TOPasscodeViewControllerExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alenpeter.TOPasscodeViewControllerExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
